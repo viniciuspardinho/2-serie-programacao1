@@ -19,10 +19,10 @@ header {
     height: 20%;
 }
 .escola {
-    background-image: linear-gradient(#804674, #D277C0);
+    background-image: linear-gradient(#ffffff, #464646);
     color:white;
     font-size: 21px;
-    padding: 300px 250px;
+    padding: 400px 400px;
 }
 
 .escola-titulo {
