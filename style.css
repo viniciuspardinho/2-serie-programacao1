@@ -1,5 +1,5 @@
 header {
-    background-color:darkblue;
+    background-color:rgb(10, 10, 133);
     color:white;
     display:flex;
 }
@@ -11,15 +11,17 @@ header {
     padding: 20px;
 
 }
-.lista-cabeçalho {
+.lista-cabesalho {
+    font-size: 21px;
     display: flex;
+    padding: 50px 100px;
 }
 .imagem-colegio {
     width: 20%;
     height: 20%;
 }
 .escola {
-    background-image: linear-gradient(#ffffff, #464646);
+    background-image: linear-gradient(darkblue, #ffffff);
     color:white;
     font-size: 21px;
     padding: 400px 400px;
