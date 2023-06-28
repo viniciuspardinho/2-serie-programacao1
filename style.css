@@ -1,5 +1,5 @@
 header {
-    background-color:rgb(10, 10, 133);
+    background-image: linear-gradient(rgb(5, 30, 255), #021b6b);
     color:white;
     display:flex;
 }
@@ -7,7 +7,7 @@ header {
 .imagem-logo {
     width:50px;
     height: 50px;
-    margin: 20px;
+    margin: 14px;
     padding: 20px;
 
 }
@@ -21,8 +21,8 @@ header {
     height: 20%;
 }
 .escola {
-    background-image: linear-gradient(darkblue, #ffffff);
-    color:white;
+    background-image: linear-gradient(rgb(34, 46, 207), #ffffff);
+    color:rgb(0, 0, 0);
     font-size: 21px;
     padding: 400px 400px;
 }
